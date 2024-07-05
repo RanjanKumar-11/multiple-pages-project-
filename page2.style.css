@@ -1,0 +1,14 @@
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 0%;
+    border: 10px solid black(2, 250, 300);
+    margin: 50px;
+    padding: 10px;
+}
+#p2{
+    background:linear-gradient(rgba(0, 0, 0, 0.452),rgba(0, 0, 0, 0.664),rgba(243, 172, 228, 0.76))
+}
+
+
+
